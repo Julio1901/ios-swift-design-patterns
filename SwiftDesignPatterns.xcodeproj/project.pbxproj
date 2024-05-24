@@ -94,6 +94,9 @@
 		F46B24922C00B41C009DB130 /* SwiftDesignPatterns */ = {
 			isa = PBXGroup;
 			children = (
+				F46B24BF2C00B635009DB130 /* BehaviouralPatterns */,
+				F46B24BE2C00B62E009DB130 /* StructuralPatterns */,
+				F46B24BD2C00B622009DB130 /* CreationalPatterns */,
 				F46B24932C00B41C009DB130 /* SwiftDesignPatternsApp.swift */,
 				F46B24952C00B41C009DB130 /* ContentView.swift */,
 				F46B24972C00B41C009DB130 /* Assets.xcassets */,
@@ -125,6 +128,27 @@
 				F46B24B02C00B41D009DB130 /* SwiftDesignPatternsUITestsLaunchTests.swift */,
 			);
 			path = SwiftDesignPatternsUITests;
+			sourceTree = "<group>";
+		};
+		F46B24BD2C00B622009DB130 /* CreationalPatterns */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = CreationalPatterns;
+			sourceTree = "<group>";
+		};
+		F46B24BE2C00B62E009DB130 /* StructuralPatterns */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = StructuralPatterns;
+			sourceTree = "<group>";
+		};
+		F46B24BF2C00B635009DB130 /* BehaviouralPatterns */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = BehaviouralPatterns;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
